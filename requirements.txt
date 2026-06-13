@@ -1,1 +1,5 @@
-
+torch
+librosa
+streamlit
+numpy
+scikit-learn
